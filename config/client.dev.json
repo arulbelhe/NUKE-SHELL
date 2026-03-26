@@ -1,0 +1,6 @@
+{
+  "api_base_url": "https://localhost:8443",
+  "client_version": "0.1.0",
+  "verify_tls": false,
+  "session_file": ".local/session.json"
+}
